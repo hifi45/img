@@ -39,10 +39,10 @@
         	font-weight:bold;
         }
         .title{
-        	text-shadow: rgb(0, 0, 0) 1px 1px 1px;font-size: 39px;color: #00CEFF;position: absolute;top: 3px;left: 120px;
+        	text-shadow: rgb(0, 0, 0) 1px 1px 1px;font-size: 39px;color: #00CEFF;position: absolute;top: 3px;left: 80px;
         }
         .title2{
-        	font-size:24px;color: #F100FF;position: absolute;top: 18px;left: 220px;
+        	font-size:24px;color: #F100FF;position: absolute;top: 18px;left: 100px;
         } 
         .container{
         	position: relative;top: 90px;margin: 0 auto;
